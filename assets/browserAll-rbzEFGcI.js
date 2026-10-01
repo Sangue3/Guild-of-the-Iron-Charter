@@ -1,0 +1,1 @@
+import"./pixi-DpjxM5Ar.js";
